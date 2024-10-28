@@ -3,5 +3,5 @@ hydra-joblib-launcher==1.2.0
 pandas
 tqdm
 pytest
-transformers=4.35.0
-
+transformers==4.35.0
+gitpython
